@@ -15,7 +15,7 @@ YouTube: EchoLazzatore (yes i make videos)
 # In what language do i code?
 I mostly write code in both Python and Batch, learning Shell and Html
 
-# What programs do i use 
+## What programs do i use 
 
 I use vscode (Web version, crappy), Nano (Text editor in terminal, easy to use)
 Pycode (Free on PlayStore, premium for themes and no ads, support only python)
