@@ -17,8 +17,13 @@ I mostly write code in both Python and Batch, learning Shell and Html
 
 ## What programs do i use 
 
-I use vscode (Web version, crappy), Nano (Text editor in terminal, easy to use)
-Pycode (Free on PlayStore, premium for themes and no ads, support only python)
+I use vscode (Web version, crappy)
+
+Nano (Text editor in terminal, easy to use)
+
+Vim (Same as nano but more harder to use but faster in writing)
+
+Pycode (Free on PlayStore, premium for themes and no ads, supports only python)
 
 # *insert end of the readme*
 Well, that's all about me :3 for any question write me on discord!! (u can find it in "my socials")
