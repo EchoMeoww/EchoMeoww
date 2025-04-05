@@ -1,29 +1,19 @@
-# About Me!!!
+## about me
+haiii~ (>ω<) i'm echo! a silly lil dev~!!
 
-Hii :3 im Echo! A 14yrs old guy who turns useless code into GitHub repos :P | Pronouns: I'd prefer he/him, but any pronoun is fine to me :] (Ex. She/Her or They/Them)
+bi femboy that luvs coding (kinda..); always tired =w= mrrp
 
-# My socials :D 
+pronouns: he/she 
 
-I don't have many socials, but the most i use are:
+## techy stuff
+- languages: python, git, bash
+- currently learnin: html, rust
+- want 2 learn: lua, java
 
-Instagram: EchoNya 
+## socials
 
-Discord: EchoNya
+telegram: [@EchoMeoww](https://t.me/EchoMeoww)  
+discord: [@echo.meow](https://discord.com/users/1182342941512060938)
 
-YouTube: EchoLazzatore (yes i make videos)
 
-# In what language do i code?
-I mostly write code in both Python and Batch, learning Shell and Html
-
-## What programs do i use 
-
-I use vscode (Web version, crappy)
-
-Nano (Text editor in terminal, easy to use)
-
-Vim (Same as nano but more harder to use but faster in writing)
-
-Pycode (Free on PlayStore, premium for themes and no ads, supports only python)
-
-# *insert end of the readme*
-Well, that's all about me :3 for any question write me on discord!! (u can find it in "my socials")
+(pls gib me stars if ya actually like my stuff :3)
