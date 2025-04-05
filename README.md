@@ -1,7 +1,7 @@
 ## about me
 haiii~ (>ω<) i'm echo! a silly lil dev~!! UwU
 
-bi femboy that luvs coding (kinda..); always tired =w= 
+bi femboy that luvs coding (kinda..) always tired =w= 
 
 pronouns: he/she 
 
